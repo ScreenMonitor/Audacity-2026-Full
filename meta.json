@@ -1,0 +1,23 @@
+{
+  "repo": "audacity-2026-full",
+  "product": "Audacity 2026 Full",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "audio-setup",
+  "topics": [
+    "audacity-setup-guide",
+    "audio-device-setup",
+    "first-project-windows",
+    "audacity-desktop-2026",
+    "how-to-setup-audacity",
+    "audacity-starter-package",
+    "record-cut-save",
+    "host-api-desk",
+    "meter-bridge-suite",
+    "audacity-windows-guide"
+  ],
+  "site": "toolix.me"
+}
